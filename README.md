@@ -1,1 +1,1 @@
-# ridgeregression
+Class project to model Barack Obama's margin win percentage over Hilary Clinton in the Democratic primaries of early 2008. Can't take credit for the starter code, can take credit for about half of the improvements. Decided that we were getting the most success with a ridge regression, interacting for region, and removing a few variables that weren't important (e.g., MalesPer100Females, Hawaiian).
